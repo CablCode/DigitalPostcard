@@ -1,0 +1,38 @@
+.postcard {
+    width: 400px;
+    height: 300px;
+}
+
+.header {
+    display: flex;
+}
+
+img {
+    width: 30%;
+
+}
+
+.image {
+    text-align: right;
+}
+
+.center {
+    display: flex;
+}
+
+#mainText {
+    margin-top: 0;
+}
+
+.footer {
+    text-align: center;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 2px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color:whitesmoke;
+    color: black;
+  }
